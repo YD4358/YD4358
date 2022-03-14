@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate Game developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysd98&label=Profile%20views&color=0e75b6&style=flat" alt="ysd98" /> </p>
-
 - 🔭 I’m currently working on **Unity3D and Unreal**
 
 - 🌱 I’m currently learning **Game Development**
