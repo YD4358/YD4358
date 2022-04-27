@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align="center">A passionate Game developer from India</h3>
 
 - 🔭 I’m currently working with **Unity3D and Unreal**
