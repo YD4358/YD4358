@@ -7,6 +7,16 @@
 
 - ⚡ Fun fact **I like to Play Games**
 
+<h3 align="left">My Projects: </h3> 
+
+
+[![Roller](https://img.shields.io/badge/Roller_Madness-FFB6C1?style=for-the-badge)](https://ysd98.github.io/Roller-Madness/)
+[![Box](https://img.shields.io/badge/Box_Shooter-ADFF2F?style=for-the-badge)](https://ysd98.github.io/Box-Shooter/)
+[![Cinco](https://img.shields.io/badge/Cinco_Amigos-blue?style=for-the-badge)](https://ysd98.github.io/Cinco_Amigos/)
+[![College](https://img.shields.io/badge/Virtual_Tour-808000?style=for-the-badge)](https://ysd98.github.io/College-Dept/)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-dushettiwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-dushettiwar" height="30" width="40" /></a>
