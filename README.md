@@ -10,10 +10,12 @@
 <h3 align="left">My Projects: </h3> 
 
 
+
 [![Roller](https://img.shields.io/badge/Roller_Madness-FFB6C1?style=for-the-badge)](https://ysd98.github.io/Roller-Madness/)
 [![Box](https://img.shields.io/badge/Box_Shooter-ADFF2F?style=for-the-badge)](https://ysd98.github.io/Box-Shooter/)
 [![Cinco](https://img.shields.io/badge/Cinco_Amigos-blue?style=for-the-badge)](https://ysd98.github.io/Cinco_Amigos/)
 [![College](https://img.shields.io/badge/Virtual_Tour-808000?style=for-the-badge)](https://ysd98.github.io/College-Dept/)
+[![OpenCV](https://img.shields.io/badge/Flood_Estimation_from_Water_Discharge_Using_Regression_Analysis-red?style=for-the-badge)](http://sersc.org/journals/index.php/IJFGCN/article/view/28724)
 
 
 
