@@ -34,3 +34,6 @@
 <a href="https://www.credly.com/badges/a9ec2c33-1322-4033-a5b4-310b9254b528" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/340x340/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png" alt="Unity" width="100" height="100" />
 </a>
+<a href="https://www.credly.com/go/zT2SOSjl" target="_blank" rel="noreferrer">
+                    <img src="https://images.credly.com/size/340x340/images/28f94e97-1ac3-46cb-9384-e9c44f95758d/00-Junior_Programmer-Pathway.png" alt="Unity" width="100" height="100">
+                </a>
